@@ -1,3 +1,4 @@
+/*Проект собирался под Windows 10 x64, IDE - Microsoft Visual Code, компилятор - mingw-w64*/
 #include <iostream>
 
 int main() {
